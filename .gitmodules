@@ -1,0 +1,4 @@
+[submodule "Submodules/RSKFoundation"]
+	path = Submodules/RSKFoundation
+	url = https://github.com/rsk-lab/RSKFoundation.git
+	branch = main
