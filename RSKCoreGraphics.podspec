@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name          = 'RSKCoreGraphics'
-  s.version       = '1.0.0'
+  s.version       = '1.1.0'
   s.summary       = 'An addition to the CoreGraphics framework.'
   s.description   = <<-DESC
                    An addition to the CoreGraphics framework. RSKCoreGraphics provides the type of object that represents a rectangle.
@@ -13,5 +13,5 @@ Pod::Spec.new do |s|
   s.swift_version = '5.3'
   s.source_files  = 'RSKCoreGraphics/*.{h,swift}'
   s.requires_arc  = true
-  s.dependency 'RSKFoundation', '1.1.0'
+  s.dependency 'RSKFoundation', '1.2.0'
 end

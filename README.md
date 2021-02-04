@@ -8,7 +8,7 @@ An addition to the CoreGraphics framework. RSKCoreGraphics provides the type of 
 
 1.  Add the pod `RSKCoreGraphics` to your [Podfile](http://guides.cocoapods.org/using/the-podfile.html).
 
-        pod 'RSKCoreGraphics', '1.0.0'
+        pod 'RSKCoreGraphics', '1.1.0'
 
 2.  Run `pod install` from Terminal, then open your app's `.xcworkspace` file to launch Xcode.
 
