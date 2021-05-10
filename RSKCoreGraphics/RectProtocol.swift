@@ -17,7 +17,7 @@
 import CoreGraphics
 import RSKFoundation
 
-/// The protocol to be adopted by a type of object that represents a rectangle.
+/// The protocol to be adopted by a type of object that represents a rectangle in the lower-left-origin coordinate system.
 public protocol RectProtocol: ObjectProtocol {
     
     // MARK: - Public Properties

@@ -1,6 +1,6 @@
 ## RSKCoreGraphics [![Swift 5.3](https://img.shields.io/badge/Swift-5.3-orange.svg?style=flat)](https://developer.apple.com/swift/)
 
-An addition to the CoreGraphics framework. RSKCoreGraphics provides the type of object that represents a rectangle.
+An addition to the CoreGraphics framework. RSKCoreGraphics provides the type of object that represents a rectangle in the lower-left-origin coordinate system.
 
 ## Installation
 
@@ -8,7 +8,7 @@ An addition to the CoreGraphics framework. RSKCoreGraphics provides the type of 
 
 1.  Add the pod `RSKCoreGraphics` to your [Podfile](http://guides.cocoapods.org/using/the-podfile.html).
 
-        pod 'RSKCoreGraphics', '1.1.0'
+        pod 'RSKCoreGraphics', '1.2.0'
 
 2.  Run `pod install` from Terminal, then open your app's `.xcworkspace` file to launch Xcode.
 
